@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hritik1718
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c language 
+- 🌱 I’m currently learning java language 
 - 📫 How to reach me www.linkedin.com/in/hritik-taak-819159314
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like to watch anime
